@@ -1,4 +1,4 @@
-# ToDo List React Application
+# To Do List React Application
 
 This project was built on react. this application used to schedule task and set priority in our daily life
 
