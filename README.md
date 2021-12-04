@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# ToDo List React Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built on react. this application used to schedule task and set priority in our daily life
 
-## Available Scripts
+## Run Steps:
 
-In the project directory, you can run:
+cd frontend
+
+npm install
+
+npm run start
 
 ### `yarn start`
 
